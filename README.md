@@ -54,7 +54,6 @@ microservices-project
 │
 └── task-service
     └── Task Management Microservice
-
 ```
 Each service has its own:
 

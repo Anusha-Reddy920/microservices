@@ -43,7 +43,7 @@ Maven
 REST APIs
 
 ```
-**Project Structure**
+Project Structure
 microservices-project
 │
 ├── discovery-server
@@ -54,7 +54,7 @@ microservices-project
 │
 └── task-service
     └── Task Management Microservice
-```
+    ```
 Each service has its own:
 
 pom.xml

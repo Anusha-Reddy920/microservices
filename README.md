@@ -41,6 +41,7 @@ Spring Data JPA
 H2 Database (In-memory)
 Maven
 REST APIs
+```
 
 ```
 Project Structure
@@ -54,15 +55,18 @@ microservices-project
 │
 └── task-service
     └── Task Management Microservice
-    ```
+```
+```
 Each service has its own:
 
 pom.xml
 application.properties
 Controllers, Services, Repositories, Entities
-
+```
+```
 Ports Configuration
 Service	Port
 Discovery Server	8761
 User Service	8081
 Task Service	8082
+```
